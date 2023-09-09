@@ -1,0 +1,22 @@
+{
+  "name": "neksare",
+  "version": "5.0.0",
+  "description": "made neksare",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "emreconf",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/builders": "^1.0.0",
+    "discord.js": "^14.0.1",
+    "fs": "^0.0.1-security",
+    "express": "^4.18.1",
+    "http": "^0.0.1-security"
+  },
+  "engines": {
+    "node": "16.x"
+  }
+}
